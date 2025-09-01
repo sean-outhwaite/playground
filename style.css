@@ -38,3 +38,7 @@ p {
 span {
   color: rgb(223, 83, 58);
 }
+
+#questions {
+  font-size: 20pt;
+}
